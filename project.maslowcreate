@@ -36,12 +36,12 @@
             "atomType": "Circle",
             "name": "Circle",
             "x": 0.15873015873015872,
-            "y": 0.4461538461538462,
+            "y": 0.42153846153846153,
             "uniqueID": 983240,
             "ioValues": [
                 {
                     "name": "diameter",
-                    "ioValue": 0.58
+                    "ioValue": 0.52
                 }
             ]
         },
@@ -118,23 +118,6 @@
                 {
                     "name": "height",
                     "ioValue": 0.95
-                }
-            ]
-        },
-        {
-            "atomType": "Rectangle",
-            "name": "Rectangle",
-            "x": 0.35449735449735453,
-            "y": 0.6061538461538462,
-            "uniqueID": 989467,
-            "ioValues": [
-                {
-                    "name": "x length",
-                    "ioValue": 1.116
-                },
-                {
-                    "name": "y length",
-                    "ioValue": 10
                 }
             ]
         },
@@ -580,7 +563,7 @@
             "atomType": "Stl",
             "name": "Stl",
             "x": 0.7288359788359788,
-            "y": 0.803076923076923,
+            "y": 0.7846153846153847,
             "uniqueID": 959367,
             "ioValues": [
                 {
